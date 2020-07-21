@@ -1,5 +1,6 @@
 # TIL
-TIL with Notion
+TIL with Notion 
+2020.07.01~
 
 ## [개발노트](https://www.notion.so/5d5ng/Development-Note-fab067fd780a40d5be0c9e78af01816e)
 [블로그](https://5d5ng.tistory.com/)에 작성하다 2020년5월부터 노션으로...
@@ -21,3 +22,5 @@ TIL with Notion
 [2020.07.19](https://www.notion.so/5d5ng/TIL-2020-07-19-7c1a55f9277f417d9daf1e77a5b3b287)
 
 [2020.07.20](https://www.notion.so/5d5ng/TIL-2020-07-20-974c9efa577f4218a68fac3cac9b7f64)
+
+[2020.07.21](https://www.notion.so/5d5ng/TIL-2020-07-21-35d99e0bfe4244459775ecd588f4073b)
