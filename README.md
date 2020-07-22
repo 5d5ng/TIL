@@ -24,3 +24,5 @@ TIL with Notion
 [2020.07.20](https://www.notion.so/5d5ng/TIL-2020-07-20-974c9efa577f4218a68fac3cac9b7f64)
 
 [2020.07.21](https://www.notion.so/5d5ng/TIL-2020-07-21-35d99e0bfe4244459775ecd588f4073b)
+
+[2020.07.22](https://www.notion.so/5d5ng/TIL-2020-07-22-ddac859019a74135b1c9dc5dca99de8f)
