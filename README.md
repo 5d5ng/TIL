@@ -58,3 +58,5 @@ TIL with Notion
 [2020.08.06](https://www.notion.so/5d5ng/TIL-2020-08-06-a34b66a343b444a9a5347e6a5fa9827e)
 
 [2020.08.07](https://www.notion.so/5d5ng/TIL-2020-08-07-e656c9265bb349d581664e41b2602e1f)
+
+[2020.08.08](https://www.notion.so/5d5ng/TIL-2020-08-08-c8db9070286a4366b8280ff6f0ca7cd4)
