@@ -1,5 +1,5 @@
 # TIL
-TIL with Notion 
+Today I Learned with Notion 
 2020.07.01~
 
 ## [개발노트](https://www.notion.so/5d5ng/Development-Note-fab067fd780a40d5be0c9e78af01816e)
