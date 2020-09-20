@@ -1,5 +1,6 @@
 # TIL
 Today I Learned with Notion 
+2020년 7월 1일 부터 노션을 이용해 매일 배운 것들을 기록하고 있습니다.
 2020.07.01~
 
 ## [개발노트](https://www.notion.so/5d5ng/Development-Note-fab067fd780a40d5be0c9e78af01816e)
@@ -144,3 +145,5 @@ Today I Learned with Notion
 [2020.09.18](https://www.notion.so/5d5ng/TIL-2020-09-18-3c436dfc419d4c029402c1022ad830d7)
 
 [2020.09.19](https://www.notion.so/5d5ng/TIL-2020-09-10-bd8b167319844090a5d0a2936cdc5f62)
+
+[2020.09.20](https://www.notion.so/5d5ng/TIL-2020-09-20-cc29b1e58d044e919221669a3823a723)
