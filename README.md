@@ -149,3 +149,5 @@ Today I Learned with Notion\
 [2020.09.20](https://www.notion.so/5d5ng/TIL-2020-09-20-cc29b1e58d044e919221669a3823a723)
 
 [2020.09.21](https://www.notion.so/5d5ng/TIL-2020-09-21-759827e71ef94e419aac6ee59e107758)
+
+[2020.09.22](https://www.notion.so/5d5ng/TIL-2020-09-22-1d8ccd83164247149c552a9b3443cd5b)
