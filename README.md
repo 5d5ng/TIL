@@ -8,6 +8,11 @@ Today I Learned with Notion\
 
 ## [TIL List](https://www.notion.so/5d5ng/TIL-48ef870b8680411b9e4b9a1ef6ed1767)
 
-### [2020년 7월]
-(https://www.notion.so/5d5ng/afeb4ff079834d92ba0f92547adf1cea?v=cf3ddd107ce24f6ea87cd69cb1060e91)
+### [2020년 7월](https://www.notion.so/5d5ng/afeb4ff079834d92ba0f92547adf1cea?v=cf3ddd107ce24f6ea87cd69cb1060e91)
+
+### [2020년 8월](https://www.notion.so/5d5ng/4a1463f6ad1e4fa899c72d56269500e2?v=09efd5474ebf4a2bb0da6300df12436f)
+
+### [2020년 9월](https://www.notion.so/5d5ng/eefbd4577de24fa4ba974942725b97b7?v=1f589a5390bf4ba3a71fab4a41fef50a)
+
+### [2020년 10월](https://www.notion.so/5d5ng/2b8ef0d400304ae78ca520746f53da01?v=dfe6bd07c7ef4ce3bf27bda3903ba997)
 
