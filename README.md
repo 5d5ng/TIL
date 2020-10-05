@@ -17,3 +17,5 @@ Today I Learned with Notion\
 ### [2020년 10월](https://www.notion.so/5d5ng/2b8ef0d400304ae78ca520746f53da01?v=dfe6bd07c7ef4ce3bf27bda3903ba997)
 
 [2020.10.04](https://www.notion.so/5d5ng/TIL-2020-10-04-3aa8260a9998464bbb303b9e6a4abfd6)
+
+[2020.10.05](https://www.notion.so/5d5ng/TIL-2020-10-05-52f796f40eab498caa29f8ebdebd515f)
