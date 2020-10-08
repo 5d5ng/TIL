@@ -23,3 +23,5 @@ Today I Learned with Notion\
 [2020.10.06](https://www.notion.so/5d5ng/TIL-2020-10-06-78e3fdb883784e6988df6ba508108ae5)
 
 [2020.10.07](https://www.notion.so/5d5ng/TIL-2020-10-07-90d0032acabf49eba069d71236328bab)
+
+[2020.10.08](https://www.notion.so/5d5ng/TIL-2020-10-08-1ed59b869bf847ae8a9432b8ae9f4202)
